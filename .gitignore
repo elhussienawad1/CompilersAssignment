@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+output/
+nfa.json
+nfa.png
+min_dfa.json
+min_dfa.png
+.ipynb_checkpoints/
